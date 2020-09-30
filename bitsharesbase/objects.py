@@ -30,7 +30,7 @@ from .objecttypes import object_type
 from .operationids import operations
 
 
-default_prefix = "BTS"
+default_prefix = "NBS"
 
 BlockId = Ripemd160
 
